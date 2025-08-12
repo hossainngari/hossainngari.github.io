@@ -1,4 +1,4 @@
-# Développeur Fullstack
+# Informaticien 
 
 Étudiant en ingénierie informatique, passionné par le développement logiciel, les systèmes et les bases de données. 
 Je construis des applications utiles en .NET, Java, et technologies web.
